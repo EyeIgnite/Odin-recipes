@@ -5,3 +5,6 @@ First TOP assignment finished. Learned how to fill out HTML boilerplate from mem
 
 ## Additional Notes
 Ran into an issue where the images weren't displaying on github page. Simple fix; I hadn't pushed the images to remote repository. Getting a grasp on when to commit and commit messages also. I struggled with that during this assignment but I think I'll do better on the next project.
+
+## Returning after CSS intro
+Learned how to change background and text colours,image opacity, adjust image and text positions, choose fonts and scale everything. Struggling with the cascade but excited to do more with CSS and get comfortable.
