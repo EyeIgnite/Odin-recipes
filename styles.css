@@ -1,8 +1,8 @@
-div {
-  color: white;
-  background-color: black;
-}
-
-p {
-  color:red;
+.header {
+  color: rgb(22, 9, 204);
+  background-color: rgb(138, 138, 138);
+  font-family: 'Gill Sans', 'Gill Sans MT';
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
 }
