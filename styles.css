@@ -11,12 +11,13 @@ body {
   text-decoration: underline;
 }
 
-.chef {
+.header,
+.chef,
+.recipes {
   text-align: center;
 }
 
 .recipes {
-  text-align: center;
   font-size: 20px;
   font-weight: 500;
 }
