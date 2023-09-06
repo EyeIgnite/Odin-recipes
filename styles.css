@@ -1,11 +1,21 @@
+body {
+  font-family: "Courier new";
+}
+
 .header {
   color: purple;
   background-color: wheat;
-  font-weight: bold;
+  font-weight: 800;
   font-size: 25px;
   text-align: center;
 }
 
 .chef {
   text-align: center;
+}
+
+.recipes {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
 }
