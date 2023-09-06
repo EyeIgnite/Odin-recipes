@@ -3,8 +3,13 @@ body {
   background-color: lightblue;
 }
 
+.food {
+  color: rgb(98, 105, 1);
+  text-decoration: underline;
+}
+
 .header {
-  color: purple;
+  color: rgb(98, 105, 1);
   font-weight: 800;
   font-size: 22px;
   text-align: center;
