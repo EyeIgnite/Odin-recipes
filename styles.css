@@ -1,28 +1,24 @@
-body {
+body,
+ul {
   font-family: "Courier new";
-  background-color: lightblue;
+  background-color: lightpink;
+  list-style: none;
 }
 
-.food {
-  color: rgb(98, 105, 1);
+.food,
+.header {
+  color: rgb(146, 11, 11);
   text-decoration: underline;
 }
 
 .header {
-  color: rgb(98, 105, 1);
   font-weight: 800;
   font-size: 22px;
   text-align: center;
-  text-decoration: underline;
 }
 
-.header,
-.chef,
-.recipes {
-  text-align: center;
-}
-
-.recipes {
-  font-size: 20px;
-  font-weight: 500;
+.directions,
+.nested {
+  font-family: 'Gill Sans', sans-serif;
+  line-height: 1.5;
 }
