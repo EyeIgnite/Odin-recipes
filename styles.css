@@ -38,6 +38,7 @@ ul,
 a {
   list-style: none;
   text-decoration: none;
+  font-weight: 550;
 }
 
 img {
@@ -46,6 +47,7 @@ img {
 
 .recipes {
   border: 2px solid teal;
+  background-color: white;
   width: 350px;
   margin: 50px auto;
   padding-bottom: 50px;
@@ -57,7 +59,7 @@ img {
   font-size: 50px;
   padding: 0;
   margin: 0 15px;
-  text-shadow: 0 6px 10px rgba(179, 147, 211, 0.8);
+  text-shadow: 0 5px 10px rgba(186, 149, 224, 0.982);
 }
 
 .recipe-list.links {
