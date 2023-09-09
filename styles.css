@@ -1,24 +1,17 @@
-body,
-ul {
-  font-family: "Courier new";
-  background-color: lightpink;
-  list-style: none;
-}
+/* box model - Content > Padding (whitespace between content and border) > Border > Margin (whitespace outside of our border seperating our box from other content) */
+/* Block boxes cover space from left to right as far as it can go and will break onto a new line  */
+/* Inline boxes only cover the space as bounded by the tages in the HTML element and will not break onto a new line */
+/* Inline-block property lets you set a width and height on the element while also not breaking onto a new line  */
+/* Boxes have inner display type and outer display type. Use "display" property */
+/* Use "box-sizing: border-box;" to turn on alternative box model */
 
-.food,
-.header {
-  color: rgb(146, 11, 11);
-  text-decoration: underline;
-}
+/* Apply alternative to all elements by setting box-sizing property on <html> and then using this: 
+*::before,
+*::after {
+  box-sizing: inherit;
+ } */
 
-.header {
-  font-weight: 800;
-  font-size: 22px;
-  text-align: center;
-}
-
-.directions,
-.nested {
-  font-family: 'Gill Sans', sans-serif;
-  line-height: 1.5;
-}
+ .header {
+  width: 990px;
+  margin: 0 auto;
+ }
