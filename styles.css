@@ -75,6 +75,7 @@ a:hover {
   opacity: 80%;
 }
 
-.fixed {
-  position: fixed;
+header {
+  text-align: center;
+  font-size: 20px;
 }
