@@ -56,13 +56,11 @@ img {
 .feature h1 {
   color: teal;
   font-size: 50px;
-  padding: 0;
   margin: 0 15px;
   text-shadow: 0 5px 10px rgba(186, 149, 224, 0.982);
 }
 
 .recipe-list.links {
-  padding: 0;
   margin: 0 35px -40px;
   line-height: 2;
   font-size: 18px;
